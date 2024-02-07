@@ -1,21 +1,46 @@
 /* Couleurs : Jaune/Vert : #CCCC33 */
 
-.principal {
+.principal{
     display: grid;
     grid-template-columns: 4fr 4fr 4fr 4fr;
     grid-template-rows: 5fr 5fr 5fr 5fr 5fr/*minmax(10px, auto)*/;
-    gap: 10px;
+    gap: 5px;
     color: white;
-    background-color:  #CCCC33; 
+    padding: 10px;
     font-size:30px;
-    grid-row: 5px; 
-    border-color: blue;
+    
+   
     
 }
 
 section {
-    grid-template-columns: 4fr 4fr 4fr 4fr;
-    grid-template-rows: 5fr 5fr 5fr 5fr 5fr;
+    background-color:  #CCCC33; 
+}
+
+#s1 {
+    grid-column-start: 1;
+    grid-column-end: 5;
+    
+}
+
+#s2 {
+    grid-column: 1;
+    grid-row:  2/6; 
+}
+
+#s4 {
+    grid-column-start: 3;
+    grid-column-end: 5;
+}
+
+#s5 {
+    grid-column-start: 2;
+    grid-column-end: 4;
+}
+
+#s10 {
+    grid-column-start: 2;
+    grid-column-end: 5;
 }
 
 
