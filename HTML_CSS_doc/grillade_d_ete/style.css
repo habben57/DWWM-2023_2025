@@ -3,7 +3,7 @@
 .principal{
     display: grid;
     grid-template-columns: 4fr 4fr 4fr 4fr;
-    grid-template-rows: 5fr 5fr 5fr 5fr 5fr/*minmax(10px, auto)*/;
+    grid-template-rows: 5fr 5fr 5fr 5fr 5fr;
     gap: 5px;
     color: white;
     padding: 10px;
@@ -44,16 +44,3 @@ section {
 }
 
 
-
-/* # s2{
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-template-rows: minmax(100px, auto);
-    gap: 20px;
-}
-
-# s3{
-    grid-column: 2; 
-    grid-column-end: 4;
-}
-} */
