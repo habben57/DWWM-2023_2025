@@ -1,0 +1,15 @@
+C:\Users\hbenmessaoud\source\repos\evaluationCalculTableau\evaluationCalculTableau\bin\Debug\net6.0\evaluationCalculTableau.exe
+C:\Users\hbenmessaoud\source\repos\evaluationCalculTableau\evaluationCalculTableau\bin\Debug\net6.0\evaluationCalculTableau.deps.json
+C:\Users\hbenmessaoud\source\repos\evaluationCalculTableau\evaluationCalculTableau\bin\Debug\net6.0\evaluationCalculTableau.runtimeconfig.json
+C:\Users\hbenmessaoud\source\repos\evaluationCalculTableau\evaluationCalculTableau\bin\Debug\net6.0\evaluationCalculTableau.dll
+C:\Users\hbenmessaoud\source\repos\evaluationCalculTableau\evaluationCalculTableau\bin\Debug\net6.0\evaluationCalculTableau.pdb
+C:\Users\hbenmessaoud\source\repos\evaluationCalculTableau\evaluationCalculTableau\obj\Debug\net6.0\evaluationCalculTableau.csproj.AssemblyReference.cache
+C:\Users\hbenmessaoud\source\repos\evaluationCalculTableau\evaluationCalculTableau\obj\Debug\net6.0\evaluationCalculTableau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbenmessaoud\source\repos\evaluationCalculTableau\evaluationCalculTableau\obj\Debug\net6.0\evaluationCalculTableau.AssemblyInfoInputs.cache
+C:\Users\hbenmessaoud\source\repos\evaluationCalculTableau\evaluationCalculTableau\obj\Debug\net6.0\evaluationCalculTableau.AssemblyInfo.cs
+C:\Users\hbenmessaoud\source\repos\evaluationCalculTableau\evaluationCalculTableau\obj\Debug\net6.0\evaluationCalculTableau.csproj.CoreCompileInputs.cache
+C:\Users\hbenmessaoud\source\repos\evaluationCalculTableau\evaluationCalculTableau\obj\Debug\net6.0\evaluationCalculTableau.dll
+C:\Users\hbenmessaoud\source\repos\evaluationCalculTableau\evaluationCalculTableau\obj\Debug\net6.0\refint\evaluationCalculTableau.dll
+C:\Users\hbenmessaoud\source\repos\evaluationCalculTableau\evaluationCalculTableau\obj\Debug\net6.0\evaluationCalculTableau.pdb
+C:\Users\hbenmessaoud\source\repos\evaluationCalculTableau\evaluationCalculTableau\obj\Debug\net6.0\evaluationCalculTableau.genruntimeconfig.cache
+C:\Users\hbenmessaoud\source\repos\evaluationCalculTableau\evaluationCalculTableau\obj\Debug\net6.0\ref\evaluationCalculTableau.dll

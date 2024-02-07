@@ -1,0 +1,15 @@
+C:\Users\hbenmessaoud\source\repos\DiviseurDUnNombre\bin\Debug\net6.0\DiviseurDUnNombre.exe
+C:\Users\hbenmessaoud\source\repos\DiviseurDUnNombre\bin\Debug\net6.0\DiviseurDUnNombre.deps.json
+C:\Users\hbenmessaoud\source\repos\DiviseurDUnNombre\bin\Debug\net6.0\DiviseurDUnNombre.runtimeconfig.json
+C:\Users\hbenmessaoud\source\repos\DiviseurDUnNombre\bin\Debug\net6.0\DiviseurDUnNombre.dll
+C:\Users\hbenmessaoud\source\repos\DiviseurDUnNombre\bin\Debug\net6.0\DiviseurDUnNombre.pdb
+C:\Users\hbenmessaoud\source\repos\DiviseurDUnNombre\obj\Debug\net6.0\DiviseurDUnNombre.csproj.AssemblyReference.cache
+C:\Users\hbenmessaoud\source\repos\DiviseurDUnNombre\obj\Debug\net6.0\DiviseurDUnNombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbenmessaoud\source\repos\DiviseurDUnNombre\obj\Debug\net6.0\DiviseurDUnNombre.AssemblyInfoInputs.cache
+C:\Users\hbenmessaoud\source\repos\DiviseurDUnNombre\obj\Debug\net6.0\DiviseurDUnNombre.AssemblyInfo.cs
+C:\Users\hbenmessaoud\source\repos\DiviseurDUnNombre\obj\Debug\net6.0\DiviseurDUnNombre.csproj.CoreCompileInputs.cache
+C:\Users\hbenmessaoud\source\repos\DiviseurDUnNombre\obj\Debug\net6.0\DiviseurDUnNombre.dll
+C:\Users\hbenmessaoud\source\repos\DiviseurDUnNombre\obj\Debug\net6.0\refint\DiviseurDUnNombre.dll
+C:\Users\hbenmessaoud\source\repos\DiviseurDUnNombre\obj\Debug\net6.0\DiviseurDUnNombre.pdb
+C:\Users\hbenmessaoud\source\repos\DiviseurDUnNombre\obj\Debug\net6.0\DiviseurDUnNombre.genruntimeconfig.cache
+C:\Users\hbenmessaoud\source\repos\DiviseurDUnNombre\obj\Debug\net6.0\ref\DiviseurDUnNombre.dll

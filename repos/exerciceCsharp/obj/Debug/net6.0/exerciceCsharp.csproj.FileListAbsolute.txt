@@ -1,0 +1,15 @@
+C:\Users\hbenmessaoud\source\repos\exerciceCsharp\bin\Debug\net6.0\exerciceCsharp.exe
+C:\Users\hbenmessaoud\source\repos\exerciceCsharp\bin\Debug\net6.0\exerciceCsharp.deps.json
+C:\Users\hbenmessaoud\source\repos\exerciceCsharp\bin\Debug\net6.0\exerciceCsharp.runtimeconfig.json
+C:\Users\hbenmessaoud\source\repos\exerciceCsharp\bin\Debug\net6.0\exerciceCsharp.dll
+C:\Users\hbenmessaoud\source\repos\exerciceCsharp\bin\Debug\net6.0\exerciceCsharp.pdb
+C:\Users\hbenmessaoud\source\repos\exerciceCsharp\obj\Debug\net6.0\exerciceCsharp.csproj.AssemblyReference.cache
+C:\Users\hbenmessaoud\source\repos\exerciceCsharp\obj\Debug\net6.0\exerciceCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbenmessaoud\source\repos\exerciceCsharp\obj\Debug\net6.0\exerciceCsharp.AssemblyInfoInputs.cache
+C:\Users\hbenmessaoud\source\repos\exerciceCsharp\obj\Debug\net6.0\exerciceCsharp.AssemblyInfo.cs
+C:\Users\hbenmessaoud\source\repos\exerciceCsharp\obj\Debug\net6.0\exerciceCsharp.csproj.CoreCompileInputs.cache
+C:\Users\hbenmessaoud\source\repos\exerciceCsharp\obj\Debug\net6.0\exerciceCsharp.dll
+C:\Users\hbenmessaoud\source\repos\exerciceCsharp\obj\Debug\net6.0\refint\exerciceCsharp.dll
+C:\Users\hbenmessaoud\source\repos\exerciceCsharp\obj\Debug\net6.0\exerciceCsharp.pdb
+C:\Users\hbenmessaoud\source\repos\exerciceCsharp\obj\Debug\net6.0\exerciceCsharp.genruntimeconfig.cache
+C:\Users\hbenmessaoud\source\repos\exerciceCsharp\obj\Debug\net6.0\ref\exerciceCsharp.dll

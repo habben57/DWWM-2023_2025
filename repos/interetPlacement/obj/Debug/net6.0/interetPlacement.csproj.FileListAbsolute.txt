@@ -1,0 +1,15 @@
+C:\Users\hbenmessaoud\source\repos\interetPlacement\bin\Debug\net6.0\interetPlacement.exe
+C:\Users\hbenmessaoud\source\repos\interetPlacement\bin\Debug\net6.0\interetPlacement.deps.json
+C:\Users\hbenmessaoud\source\repos\interetPlacement\bin\Debug\net6.0\interetPlacement.runtimeconfig.json
+C:\Users\hbenmessaoud\source\repos\interetPlacement\bin\Debug\net6.0\interetPlacement.dll
+C:\Users\hbenmessaoud\source\repos\interetPlacement\bin\Debug\net6.0\interetPlacement.pdb
+C:\Users\hbenmessaoud\source\repos\interetPlacement\obj\Debug\net6.0\interetPlacement.csproj.AssemblyReference.cache
+C:\Users\hbenmessaoud\source\repos\interetPlacement\obj\Debug\net6.0\interetPlacement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbenmessaoud\source\repos\interetPlacement\obj\Debug\net6.0\interetPlacement.AssemblyInfoInputs.cache
+C:\Users\hbenmessaoud\source\repos\interetPlacement\obj\Debug\net6.0\interetPlacement.AssemblyInfo.cs
+C:\Users\hbenmessaoud\source\repos\interetPlacement\obj\Debug\net6.0\interetPlacement.csproj.CoreCompileInputs.cache
+C:\Users\hbenmessaoud\source\repos\interetPlacement\obj\Debug\net6.0\interetPlacement.dll
+C:\Users\hbenmessaoud\source\repos\interetPlacement\obj\Debug\net6.0\refint\interetPlacement.dll
+C:\Users\hbenmessaoud\source\repos\interetPlacement\obj\Debug\net6.0\interetPlacement.pdb
+C:\Users\hbenmessaoud\source\repos\interetPlacement\obj\Debug\net6.0\interetPlacement.genruntimeconfig.cache
+C:\Users\hbenmessaoud\source\repos\interetPlacement\obj\Debug\net6.0\ref\interetPlacement.dll

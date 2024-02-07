@@ -1,0 +1,15 @@
+C:\Users\hbenmessaoud\source\repos\AireEtVolumeSphere\AireEtVolumeSphere\bin\Debug\net6.0\AireEtVolumeSphere.exe
+C:\Users\hbenmessaoud\source\repos\AireEtVolumeSphere\AireEtVolumeSphere\bin\Debug\net6.0\AireEtVolumeSphere.deps.json
+C:\Users\hbenmessaoud\source\repos\AireEtVolumeSphere\AireEtVolumeSphere\bin\Debug\net6.0\AireEtVolumeSphere.runtimeconfig.json
+C:\Users\hbenmessaoud\source\repos\AireEtVolumeSphere\AireEtVolumeSphere\bin\Debug\net6.0\AireEtVolumeSphere.dll
+C:\Users\hbenmessaoud\source\repos\AireEtVolumeSphere\AireEtVolumeSphere\bin\Debug\net6.0\AireEtVolumeSphere.pdb
+C:\Users\hbenmessaoud\source\repos\AireEtVolumeSphere\AireEtVolumeSphere\obj\Debug\net6.0\AireEtVolumeSphere.csproj.AssemblyReference.cache
+C:\Users\hbenmessaoud\source\repos\AireEtVolumeSphere\AireEtVolumeSphere\obj\Debug\net6.0\AireEtVolumeSphere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbenmessaoud\source\repos\AireEtVolumeSphere\AireEtVolumeSphere\obj\Debug\net6.0\AireEtVolumeSphere.AssemblyInfoInputs.cache
+C:\Users\hbenmessaoud\source\repos\AireEtVolumeSphere\AireEtVolumeSphere\obj\Debug\net6.0\AireEtVolumeSphere.AssemblyInfo.cs
+C:\Users\hbenmessaoud\source\repos\AireEtVolumeSphere\AireEtVolumeSphere\obj\Debug\net6.0\AireEtVolumeSphere.csproj.CoreCompileInputs.cache
+C:\Users\hbenmessaoud\source\repos\AireEtVolumeSphere\AireEtVolumeSphere\obj\Debug\net6.0\AireEtVolumeSphere.dll
+C:\Users\hbenmessaoud\source\repos\AireEtVolumeSphere\AireEtVolumeSphere\obj\Debug\net6.0\refint\AireEtVolumeSphere.dll
+C:\Users\hbenmessaoud\source\repos\AireEtVolumeSphere\AireEtVolumeSphere\obj\Debug\net6.0\AireEtVolumeSphere.pdb
+C:\Users\hbenmessaoud\source\repos\AireEtVolumeSphere\AireEtVolumeSphere\obj\Debug\net6.0\AireEtVolumeSphere.genruntimeconfig.cache
+C:\Users\hbenmessaoud\source\repos\AireEtVolumeSphere\AireEtVolumeSphere\obj\Debug\net6.0\ref\AireEtVolumeSphere.dll

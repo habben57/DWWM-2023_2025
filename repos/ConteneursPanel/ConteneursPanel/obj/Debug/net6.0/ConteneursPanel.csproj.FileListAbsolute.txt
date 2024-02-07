@@ -1,0 +1,15 @@
+C:\Users\hbenmessaoud\source\repos\ConteneursPanel\ConteneursPanel\obj\Debug\net6.0\ConteneursPanel.csproj.AssemblyReference.cache
+C:\Users\hbenmessaoud\source\repos\ConteneursPanel\ConteneursPanel\obj\Debug\net6.0\ConteneursPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbenmessaoud\source\repos\ConteneursPanel\ConteneursPanel\obj\Debug\net6.0\ConteneursPanel.AssemblyInfoInputs.cache
+C:\Users\hbenmessaoud\source\repos\ConteneursPanel\ConteneursPanel\obj\Debug\net6.0\ConteneursPanel.AssemblyInfo.cs
+C:\Users\hbenmessaoud\source\repos\ConteneursPanel\ConteneursPanel\obj\Debug\net6.0\ConteneursPanel.csproj.CoreCompileInputs.cache
+C:\Users\hbenmessaoud\source\repos\ConteneursPanel\ConteneursPanel\bin\Debug\net6.0\ConteneursPanel.exe
+C:\Users\hbenmessaoud\source\repos\ConteneursPanel\ConteneursPanel\bin\Debug\net6.0\ConteneursPanel.deps.json
+C:\Users\hbenmessaoud\source\repos\ConteneursPanel\ConteneursPanel\bin\Debug\net6.0\ConteneursPanel.runtimeconfig.json
+C:\Users\hbenmessaoud\source\repos\ConteneursPanel\ConteneursPanel\bin\Debug\net6.0\ConteneursPanel.dll
+C:\Users\hbenmessaoud\source\repos\ConteneursPanel\ConteneursPanel\bin\Debug\net6.0\ConteneursPanel.pdb
+C:\Users\hbenmessaoud\source\repos\ConteneursPanel\ConteneursPanel\obj\Debug\net6.0\ConteneursPanel.dll
+C:\Users\hbenmessaoud\source\repos\ConteneursPanel\ConteneursPanel\obj\Debug\net6.0\refint\ConteneursPanel.dll
+C:\Users\hbenmessaoud\source\repos\ConteneursPanel\ConteneursPanel\obj\Debug\net6.0\ConteneursPanel.pdb
+C:\Users\hbenmessaoud\source\repos\ConteneursPanel\ConteneursPanel\obj\Debug\net6.0\ConteneursPanel.genruntimeconfig.cache
+C:\Users\hbenmessaoud\source\repos\ConteneursPanel\ConteneursPanel\obj\Debug\net6.0\ref\ConteneursPanel.dll

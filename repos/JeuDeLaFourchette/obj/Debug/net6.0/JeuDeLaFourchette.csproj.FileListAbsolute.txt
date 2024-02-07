@@ -1,0 +1,15 @@
+C:\Users\hbenmessaoud\source\repos\JeuDeLaFourchette\bin\Debug\net6.0\JeuDeLaFourchette.exe
+C:\Users\hbenmessaoud\source\repos\JeuDeLaFourchette\bin\Debug\net6.0\JeuDeLaFourchette.deps.json
+C:\Users\hbenmessaoud\source\repos\JeuDeLaFourchette\bin\Debug\net6.0\JeuDeLaFourchette.runtimeconfig.json
+C:\Users\hbenmessaoud\source\repos\JeuDeLaFourchette\bin\Debug\net6.0\JeuDeLaFourchette.dll
+C:\Users\hbenmessaoud\source\repos\JeuDeLaFourchette\bin\Debug\net6.0\JeuDeLaFourchette.pdb
+C:\Users\hbenmessaoud\source\repos\JeuDeLaFourchette\obj\Debug\net6.0\JeuDeLaFourchette.csproj.AssemblyReference.cache
+C:\Users\hbenmessaoud\source\repos\JeuDeLaFourchette\obj\Debug\net6.0\JeuDeLaFourchette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbenmessaoud\source\repos\JeuDeLaFourchette\obj\Debug\net6.0\JeuDeLaFourchette.AssemblyInfoInputs.cache
+C:\Users\hbenmessaoud\source\repos\JeuDeLaFourchette\obj\Debug\net6.0\JeuDeLaFourchette.AssemblyInfo.cs
+C:\Users\hbenmessaoud\source\repos\JeuDeLaFourchette\obj\Debug\net6.0\JeuDeLaFourchette.csproj.CoreCompileInputs.cache
+C:\Users\hbenmessaoud\source\repos\JeuDeLaFourchette\obj\Debug\net6.0\JeuDeLaFourchette.dll
+C:\Users\hbenmessaoud\source\repos\JeuDeLaFourchette\obj\Debug\net6.0\refint\JeuDeLaFourchette.dll
+C:\Users\hbenmessaoud\source\repos\JeuDeLaFourchette\obj\Debug\net6.0\JeuDeLaFourchette.pdb
+C:\Users\hbenmessaoud\source\repos\JeuDeLaFourchette\obj\Debug\net6.0\JeuDeLaFourchette.genruntimeconfig.cache
+C:\Users\hbenmessaoud\source\repos\JeuDeLaFourchette\obj\Debug\net6.0\ref\JeuDeLaFourchette.dll

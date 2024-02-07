@@ -1,0 +1,34 @@
+/* Couleurs : Jaune/Vert : #CCCC33 */
+
+.principal {
+    display: grid;
+    grid-template-columns: 4fr 4fr 4fr 4fr;
+    grid-template-rows: 5fr 5fr 5fr 5fr 5fr/*minmax(10px, auto)*/;
+    gap: 10px;
+    color: white;
+    background-color:  #CCCC33; 
+    font-size:30px;
+    grid-row: 5px; 
+    border-color: blue;
+    
+}
+
+section {
+    grid-template-columns: 4fr 4fr 4fr 4fr;
+    grid-template-rows: 5fr 5fr 5fr 5fr 5fr;
+}
+
+
+
+/* # s2{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: minmax(100px, auto);
+    gap: 20px;
+}
+
+# s3{
+    grid-column: 2; 
+    grid-column-end: 4;
+}
+} */

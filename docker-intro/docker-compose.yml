@@ -1,0 +1,10 @@
+name: habben-apache
+services:
+  apache:
+    image: httpd
+    container_name: habben-httpd
+    restart: always
+    volumes:
+      - './:/usr/local/apache2/htdocs'
+    ports:
+      - '3000:80' # port doit etre > 1024

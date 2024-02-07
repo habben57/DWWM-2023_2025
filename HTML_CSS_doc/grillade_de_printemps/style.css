@@ -1,0 +1,104 @@
+* {
+    box-sizing: border-box;
+  }
+@media screen and (max-width: 768px)and(min-width:320px) {
+    body {
+ 
+        grid-template-areas:
+            "header "
+            "nav"
+            "main "
+            "footer ";
+    }
+}
+header {
+    grid-area: header; 
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    gap: 5px;
+    height: 50px;
+}
+
+aside{
+    padding-top: 30px;
+}
+
+nav {
+    grid-area: nav;
+    padding-left: 25px;
+}
+
+.principal{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end; 
+    padding-right: 5spx; 
+    margin-right: 20px;
+    margin-bottom: 20px; 
+}
+
+.box {
+ 
+    background-color:  #BBCCFF;
+    color: #1d1818ef;
+    padding: 10px;
+    margin: 20px;
+    padding-right: 5px;
+}
+
+body {
+    display: grid;
+    gap: 5px;
+    grid-template-areas: "header header header header"
+    "nav main main main"
+    "nav footer footer footer";
+    /* height: 100vh; */
+    margin: 5px;
+   
+}
+ 
+header > h1 {
+    grid-column: 1/6;
+    /* height: 50px; */
+}
+ 
+header > h1, aside{
+    margin: 0;
+    padding-left: 15px;
+    padding-top: 10px;
+    box-sizing:initial;
+}   
+
+main {
+    grid-area: main;
+    padding-left:10px;
+    border-left: 10px;   
+}
+ 
+.principal > h2{
+    width: 100%;
+}
+ 
+section {
+    background-color: #ffff;
+    padding-left: 10px;
+    width: 45%;
+    margin: 5px 5px;
+}
+ 
+h3{
+    padding: 10px;
+    display: flex;
+}
+ 
+footer {
+    grid-area: footer;
+    padding-left: 15px;
+    
+}
+ 
+h1, aside, nav, main, footer {
+    background-color: #afbee6;
+    height:auto;
+}
+ 

@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": "../addition1"
+		},
+		{
+			"path": "../AireEtVolumeSphere"
+		},
+		{
+			"path": "../ConteneursPanel"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../evaluationCalculTableau"
+		},
+		{
+			"path": "../exerciceCsharp"
+		},
+		{
+			"path": "../interetPlacement"
+		},
+		{
+			"path": "../JeuDeLaFourchette"
+		},
+		{
+			"path": "../JeuDeLaFourchette2"
+		},
+		{
+			"path": "../MoyenneDe DeuxNombres"
+		},
+		{
+			"path": "../pendu"
+		},
+		{
+			"path": "../SuiteDeFibonacci"
+		},
+		{
+			"path": "../Test visual studio"
+		}
+	]
+}
