@@ -1,0 +1,209 @@
+/* ---------------------Géneralités----------------------*/
+
+
+@font-face {
+    font-family: "channel";
+    src: url("./fonts/channel-webfont.woff");
+    src: url("./fonts/channel-webfont.ttf")format("truetype");
+    src: url("./fonts/channel-webfont.sgv")format("sgv");
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("./images/bg_motif.gif");
+    background-repeat:repeat;
+}
+
+/* ---------------------Header--------------------------- */
+
+
+nav {       
+        font-size: 1.2em;
+        width: 100%;
+        height: 80px;
+        background-image: url('./images/header.png'); 
+        color: white;
+        font-family: "channel",sans-serif;
+        border-bottom: 2px solid #fff;
+         /* position:fixed;  */
+        
+}
+
+nav ul {
+    margin-top:30px;
+    margin-right: 60px;
+    list-style-type:  none;
+    float: right;   
+}
+
+nav ul li{
+    display:inline-block;
+    position: relative;
+ }
+
+nav ul ul {
+position:absolute;
+margin: 0;
+padding:0;
+display: none;
+}
+
+nav ul ul li{
+    border-bottom:1px solid white;
+    border-left : 1px solid white;
+    border-right:1px solid white ;
+    width: 100%;   
+}
+
+nav ul ul li:first-child{
+    border-top: 1px solid white; 
+}
+
+nav ul li:hover ul {
+    display: block;
+} 
+
+nav a:link { 
+    width: 100%;
+    color: #fff;
+    text-decoration: none;
+    padding-left: 10px;  
+}
+
+nav a:visited {
+    color: #fff;
+    text-decoration: none;
+}
+
+.red-hover:hover{
+    color: red;
+}
+
+img.card_img{
+    display: block;  
+    width: 850px; 
+}
+
+/* -----------------------main ----------------------*/
+
+main {
+   width: 60%;
+   background-image: url("./images/container2.png");
+
+    margin: auto; 
+}
+
+.vignette{
+    padding-left: 50px;
+    position: relative;
+    justify-content: center;
+}
+
+div.card {
+    display:block;
+    justify-content: center;
+    background-color: blue;
+    width: 850px;
+    margin: 10px auto;
+   
+ }
+
+h2 {
+        display: flex;
+        justify-content: center;
+        color:rgb(207, 36, 36);
+        background-color: white;
+        border-color: black;
+        border: 5px;       
+} 
+
+h2.card_header{
+   margin-top: 5px; ;
+   width: 850px;
+   margin: 5px auto;
+   
+}
+
+h3 {
+    color:white;
+    font-family: "channel";
+
+    margin-left: 15px;
+    padding: 15px;
+}
+
+article.menu_titre{
+display:flex;
+justify-content: space-evenly;
+
+}
+
+.menu_vignette{   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30%;
+}
+
+.menu_titre-produit {
+    font-family: "channel";
+    color: white;
+    
+} 
+
+p.menu-cave-text{
+    color: black
+} 
+
+p.menu-vigneron-text{
+    color: black
+} 
+
+p.menu-cave-text{
+    color: black
+} 
+
+button{
+    background-color: rgb(173, 171, 171);
+    
+    color: white;
+}
+
+img{
+    padding-bottom:  0px;
+    margin-left: 0;
+}
+img.vignette{
+
+}
+
+
+
+section.grid_items{
+    display: flex;
+    justify-content: space-around
+    
+}
+p.menu-cave-text{
+    
+}
+
+
+.grid-items{
+    
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   grid-template-rows: 1fr 1fr 1fr;
+   justify-content: space-between;
+    width: 60%;
+}
+
+/* title {
+    display: flex;
+    justify-content: space-between;
+} */

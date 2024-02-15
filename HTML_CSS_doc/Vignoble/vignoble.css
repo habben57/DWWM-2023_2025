@@ -1,0 +1,172 @@
+
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+ul {
+    list-style-type: none;       /*pour changer etsuprimer les puces*/
+  }
+
+ 
+    @font-face {
+        font-family: 'Channel';
+        src: url('./fonts/channel-webfont.ttf');
+
+      }
+ 
+
+nav {
+    
+    height: 100px;
+    display:flex;
+    flex-direction: row;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr ;
+    background-color: black; 
+    font-family: 'Channel';
+    align-items: flex-end;
+    justify-content: end;
+}
+
+.grid_item {
+    display: flex;
+    justify-content:space-between 
+}
+
+.navbar {
+    
+    /* display:flex; */
+   
+    /* grid-row: auto; */
+}
+
+nav.ul li{
+    display:inline block;
+    position :relative;
+    border-color: white;
+}
+
+a {
+    display: flex;
+    align-items: center;
+}
+img.card_img{
+   
+}
+
+h2.card_header{
+    display: flex;
+    align-items: center;
+    
+}
+
+h3 {
+    display:flex;
+    justify-content:center;
+    
+    
+}
+
+ul.card-header-menu {
+    display: flex;
+
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+/* body{
+    margin: 0;
+    padding: 0;
+   
+}
+ 
+
+ .nav{
+    font-family: 'policemenu';
+    padding-top: 30px ;
+    align-items:flex-end ;
+
+  
+} 
+  .menuprincipal li a:link, .menuprincipal li a:visited{
+    display: block;
+    color: #ffffff;
+    padding: 6px 10px;
+    text-align: right;
+
+} 
+
+@font-face {
+    font-family: 'policemenu';
+    src: url('fonts/channel-webfont.woff');
+ 
+      
+}
+image{
+    grid-column: 3;
+   
+
+   
+}
+
+.grid_item {
+    display: flex;
+    justify-content: center;
+}
+
+
+.menuprincipal {
+    height : 60px;
+    list-style :none;
+    padding: 10px 0px 0px 0;
+    margin-top: 40px;
+    margin-bottom: none ;
+    margin-right: none;
+    padding-right: 30px;
+    background-color: black;
+    color: aliceblue;
+    
+}
+
+.card img {
+    display: flex;
+    justify-content: center;
+}
+.menuprincipal li{
+    float: right;
+    width: 100px;
+    list-style:none;
+}
+
+h3 {
+    display: flex;
+    justify-content: space-around;
+    
+   
+
+}
+.menuprincipal ul li{
+    list-style: none;
+    display: none;
+}
+.card-header-menu{
+    display: flex;
+    list-style: none;
+    text-align: center;
+   
+}
+.card-header-menu li{
+    display: flex;
+   align-items:flex-start;
+   align-self: flex-start;
+}
+ */
