@@ -87,6 +87,8 @@ nav a:visited {
 img.card_img{
     display: block;  
     width: 850px; 
+    padding-left: 0px;
+    
 }
 
 hr {
@@ -110,9 +112,10 @@ main {
 div.card {
     display:block;
     justify-content: center;
-    background-color: blue;
+    
     width: 850px;
     margin: 10px auto;
+    padding-top:0px;
    
  }
 
@@ -138,7 +141,9 @@ h3 {
 
     margin-left: 15px;
     padding: 15px;
+   
 }
+
 
 article.menu_titre{
 display:flex;
@@ -147,28 +152,30 @@ justify-content: space-evenly;
 }
 
 .menu_vignette{   
-    display: flex;
-    flex-direction: column;
+    /* display: flex;
+    flex-direction: column; */
     align-items: center;
     width: 30%;
+    text-align: center;
+    color:white;
 }
 
 .menu_titre-produit {
     font-family: "channel";
     color: white;
     
+    
 } 
 
-p.menu-cave-text{
-    color: black
-} 
 
 p.menu-vigneron-text{
-    color: black
+    
+    color:white;
 } 
 
 p.menu-cave-text{
-    color: black
+    color: white;
+
 } 
 
 button{
@@ -180,10 +187,9 @@ button{
 img{
     padding-bottom:  0px;
     margin-left: 0;
+    padding-left:50px;
 }
-img.vignette{
 
-}
 
 
 
@@ -192,9 +198,7 @@ section.grid_items{
     justify-content: space-around
     
 }
-p.menu-cave-text{
-    
-}
+
 
 
 .grid-items{
@@ -206,7 +210,14 @@ p.menu-cave-text{
     width: 60%;
 }
 
-/* title {
-    display: flex;
-    justify-content: space-between;
-} */
+/*------------------Footer---------------------------------*/
+
+
+
+ ul{
+    margin-top:30px;
+    margin-right: 60px;
+    list-style-type:  none;
+    float: left;  
+  
+}
