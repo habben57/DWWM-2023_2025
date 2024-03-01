@@ -1,0 +1,154 @@
+*{
+    padding: none;
+    margin: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    list-style:none;
+
+}
+/*-----nav accessibilité------*/
+.a11y-nav{
+    position: absolute;
+    top: -10em;
+    z-index: 100;
+    width:100%;
+}
+.a11y-nav a{
+    background-color: #fff;
+    font-weight: 700;
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-align: center;
+    padding: 0.5rem 0;
+}
+.a11y-nav a:focus,
+.a11y-nav a:hover {
+    top: 10em;
+    text-decoration: none;
+}
+/*-----nav accessibilité------*/
+
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: #0065D1;
+    padding: 10px;
+    height: 120px;
+   
+
+}
+.acceuil a{
+    color:white;
+    position: absolute;
+
+   
+}
+/* .logo a {
+    display: flex;
+    justify-content: center;
+
+} */
+img.logo{
+    
+    display: flex;
+  
+    height: 50px;
+    padding-left: 2px;
+    margin-top: 25px ; 
+}
+
+ul.navigation{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    list-style-type: none;
+    color:white;
+    width: 50%;
+
+}
+
+.introduction{
+    
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    margin-left: 500px;
+    margin-right:  500px;
+    
+  
+}
+
+.principes{
+   
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+  
+   
+}
+
+.principes ul{
+    display: flex;
+    gap: 10px;
+    
+}
+.principes ul li{
+    background-color: #9bc9f7;
+    border-radius: 10px;
+    box-shadow: 50px;
+    text-align: center;
+    
+
+}
+
+.principes p{
+justify-content: center;
+height: 100px;
+text-align: center;
+
+font-size: 1.5rem;
+}
+
+H1{
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 20px 0;
+}
+
+p{
+    font-size: 1rem;
+    margin: 0px;
+    text-align: justify;
+}
+
+p.principes-description{
+height: 80px;
+}
+
+table {
+    border: solid black;
+}
+
+table th{
+background-color: gray;
+color:white;
+
+}
+
+table th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
