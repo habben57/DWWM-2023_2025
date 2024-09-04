@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr-fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intervalles temporelles</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="JS/main.js" type="module"></script>
+</head>
+<body id="app">
+    <fieldset>
+    <div>
+        <h1>Gestion des dates et des Intervalles</h1>
+        <form>
+            <label for="dateActuelle">Date actuelle : </label>
+            <input type="text" id="dateActuelle" v-model="dateActuelle">
+
+            <label for="heureActuelle">Heure acttuelle : </label>
+            <input type="text" id="heureActuelle" v-model="heureActuelle">
+
+            <button @click="dateDuJour" type="button" id="btnDate">Afficher Date du jour</button>
+        </form>
+    </div>
+</fieldset>
+
+
+    
+</body>

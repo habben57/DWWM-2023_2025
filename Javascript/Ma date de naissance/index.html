@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Date de naissance</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="./JS/main.js" type="module"></script>
+
+</head>
+
+<body id="app">
+    <div>
+        <h1>Ma date de naissance</h1>
+        <form>
+            <label for="dateNaissance">Date de naissance : </label>
+
+            <input type="datetime-local" id="dateNaissance" v-model="dateNaissance" required min="1930-01-01T00:00"
+                :max="dateactuelle.toISOString().split('.')[0]">
+
+            <button @click="age" type="button" id="btncalculer">calculer </button>
+
+            <hr>
+            <div v-if="monAge != null">
+                <p>Vous êtes né le {{ new Date(dateNaissance).toLocaleDateString() }} à {{ new
+                    Date(dateNaissance).toLocaleTimeString() }}</p>
+
+                <p>Il s'est écoulé {{ monAge }} années depuis votre naissance.</p>
+
+                <hr>
+                <p id="imgAstro">Votre signe astrologique est : {{ signe }}</p>
+            </div>
+
+        </form>
+    </div>
+
+</body>
+
+</html>

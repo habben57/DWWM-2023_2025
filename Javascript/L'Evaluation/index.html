@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="fr-fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>L'évaluation</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="./JS/main.js" type="module"></script>
+
+
+</head>
+
+<body>
+    <div id="evaluation">
+        <fieldset>
+            <form>Résultat de l'évaluation</form>
+
+            <fieldset>
+                <legend>Ajouter une note</legend>
+
+                <label for="identite">Nom Prénom : </label>
+                <input type="text" id="identite" v-model="userInput1" required="required">
+
+                <br>
+
+                <label for="notes">Note : </label>
+                <input type="number" id="notes" maxlength="2" max="20" min="0" v-model="userInput2" required="required">
+
+                <br>
+
+                <button type="button" @click="Ajouter" id="boutton">Ajouter</button>
+
+            </fieldset>
+
+            <datalist id="eleves">
+                <option v-for="eleve of notes" :value="eleve.grade"></option>
+            </datalist>
+
+            <table id="listeEleves">
+                <thead>
+                    <tr>
+                        <th>Nom</th>
+                        <th>Prenom</th>
+                        <th>Note</th>
+                        <th>Obtenu</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr v-for="eleve of notes">
+                        <td id="nom">{{ eleve.nom }}</td>
+                        <td>{{ eleve.prenom}}</td>
+                        <td id="grade">{{ eleve.grade}} </td>
+                        <td>{{ eleve.obtenu }}</td>
+
+                    </tr>
+                </tbody>
+            </table>
+            <ul>
+                <li>Nombre d'élèves dans la classe : {{ calcNbeEleve() }}</li>
+                <li>Moyenne de la classe : {{ moyenneClasse() }}</li>
+                <li>Nombre détudients au dessus de la moyenne de la classe : {{ noteSup }}</li>
+                <li>Note éliminatoire : 12</li>
+                <li>Eléves éliminé : {{ elimine }}</li>
+            </ul>
+        </fieldset>
+
+
+
+    </div>
+
+</body>
+
+</html>

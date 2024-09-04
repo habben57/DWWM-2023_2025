@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="fr-Fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>exo tableau liste personne</title>
+    <script src="js/tab.js" defer></script>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<!----------------------------------------------------------------------------->
+    <form action="#" method="POST" enctype="text/plain">
+    <fieldset>
+        <h1>Liste des personnes inscrites</h1>
+        <form action="#" method="POST" enctype="text/plain">
+
+        <fieldset>
+        
+            <div class="newPersonne">
+                <legend>Ajouter une personne</legend>
+                
+                <div>
+                <div class="prenom"><P>Prenom: &nbsp<input type="text" value="" name="btnprenom" id="btnprenom">&nbsp &nbsp &nbsp</P></div>
+                <div class="nom"><p>Nom: &nbsp  <input type="text" value="" name="btnnom" id="btnnom">&nbsp</p></div>
+                <div class="button"><p><input type="button" value="Ajouter" name="btndialogue" id="btndialogue"></p></div>
+                </div>
+
+        <p id="paragraphe"></p>
+    
+    </div>
+        </form>
+        </fieldset>
+        
+
+<!----------------Liste a puce --------------------------------------------------->    
+        <ul id="liste">
+        
+        </ul>
+<!----------------Tableau 2 --------------------------------------------->
+        <table id="personnes">
+            <tr>
+                <th>Nom</th>
+                <th>Prénom</th>
+                <th>Mail</th>
+                <!--<th>Supprimer</th>-->
+             </tr>
+       
+        </table>
+    </fieldset>
+    </form>
+    
+</body>
+
+</html>

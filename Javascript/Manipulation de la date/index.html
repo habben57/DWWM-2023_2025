@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="Fr-fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>exercice Objet Date en JS</title>
+    <link rel="stylesheet" href="css/style.css">
+
+    <script src="js/script.js"  async></script>     
+    <script src="js/script2.js" defer></script>
+    <script src="js/script3.js" defer></script>
+
+
+</head>
+<body>
+    
+    <!----------------Date et Heure---------------------------------------------------------->
+    
+    <form action="#" method="POST" enctype="text/plain">
+        <fieldset>  <!---Fieldset permet d'englober le formulaire dans un cadre---->
+            
+            <legend> date & heure :</legend>     <!----legend est le titre------>
+            <div>
+            <input type="text" name="txtdate" id="txtdate" placeholder="date du jour"/>
+            <input type="button" value="Afficher" name="btndate" id="btndate">
+            </div>
+            
+            <div>
+            <input type="text" name="txtheure" id="txtheure" placeholder="heure courante">
+            <input type="button" value="afficher heure" name="btnheure" id="btnheure"/>
+            </div>
+        
+        </fieldset>
+
+    </form>
+
+    
+
+
+
+
+    
+    <br> <!---------------Calculs dinamiques----------------------------------------------------  -->
+    <br>
+  
+    
+   <!-- <legend></legend>-->
+    <form action="#" method="POST" enctype="text/plain">
+        <fieldset>
+            <legend>Calculs dynamiques </legend>
+        <div>quantité : <input type="number" id="qte1" name="qte1" value="1"/>  
+            Prix Unitaire : <input type="number" id="pu1" value="0"/>
+            Prix : <input type="text" id="prixtotal1"/>
+        </div>
+        <div>quantité : <input type="number" id="qte2" name="qte2" value="1"/>  
+            Prix Unitaire : <input type="number" id="pu2" value="0"/>
+            Prix : <input type="text" id="prixtotal2"/>
+        </div>
+        <hr>
+        <div class="total"> <input type="number" id="prixtotal3"/>
+        </div>
+        </fieldset>
+        
+    </form>
+
+
+
+
+<br>  <!------------------Changement de couleurs------------------------------------------------->
+<br>
+
+
+    <form action="#" method="POST" enctype="text/plain">
+        <fieldset>
+            
+            <legend>Changement de couleurs</legend>
+        
+            <div>
+                <input type="text" id="code1" />
+                <input type="text" id="code1" />    
+                <input type="text" id="code1" />    
+            </div>
+        
+        <div class="BRouge"><input type="button" value="Rouge" name="btnrouge" id="btnrouge"></div>  
+        <div class="BVert"><input type="button" value="Vert" name="btnvert" id="btnvert"></div>
+        <div class="BBleu"><input type="button" value="Bleu" name="btnbleu" id="btnbleu"> </div>
+       
+
+        </fieldset>
+
+    </form>
+
+
+</body>
+</html>

@@ -1,0 +1,75 @@
+fieldset {
+    margin:  50px auto;
+    width: 50%;
+    border: 5px solid white;
+    border-radius: 12px;
+    background-color: #ebcaaf;
+    padding: 20px;
+    
+}
+ body{
+    background-color: rgb(192, 201, 119);
+    
+ }
+div {
+    margin-bottom: 5px;
+    
+}
+
+legend {
+    font-size: 1.5rem;
+    color:rgb(163, 77, 42);
+}
+
+.position{
+    display: flex;
+}
+
+.couleur{
+    display:flex;
+    flex-wrap: wrap;
+    padding: 3px;
+
+}
+
+#btnvert:hover{
+    background-color: hsl(116, 80%, 45%);
+}
+#btnrouge:hover{
+    color: rgb(238, 6, 6);
+}
+#btnbleu:hover{
+border-color: #1606f5;
+    
+}
+/*----------------------------------------------------
+
+
+
+div.rgb {
+    flex-direction: row;
+    flex-wrap: wrap;
+    display: inline-flex;
+    align-content: space-around;
+    margin-left: 105px;
+}
+
+div.button{
+    flex-direction: row;
+    flex-wrap: wrap;
+    display: inline-flex;
+    align-items: center;
+    margin-left: 105px;  
+}
+
+#code1,#code2{
+    margin-right: 40px;
+}
+
+#btnrouge{
+    margin-right: 163px; ;
+}
+
+#btnvert{
+    margin-right:177px ;
+}*/

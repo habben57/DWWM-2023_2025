@@ -1,0 +1,51 @@
+:root {
+    --color1: #30343F;
+    --color2: #FAFAFF;
+    --color3: #E4D9FF;
+    --color4: #374479;
+    --color5: #6E7799;
+    --color6: #C490D1;
+}
+
+fieldset {
+    width: 500px;
+    margin: auto;
+    background-color: var(--color1);
+    color: var(--color3);
+
+}
+
+table#listeEleves {
+    background-color: var(--color4);
+    color: var(--color3);
+    border-color: var(--color5);
+    border-collapse: collapse;
+    margin: 20px;
+}
+
+td,
+th,
+input,
+button {
+    border: 1px solid var(--color5);
+
+}
+
+input {
+    background-color: #374479;
+}
+
+button {
+    background-color: #374479;
+}
+
+#nom-prenom,
+#notes,
+#boutton {
+    color: white;
+}
+
+label {
+    display: inline-block;
+    width: 120px;
+}

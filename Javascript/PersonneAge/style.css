@@ -1,0 +1,32 @@
+#app{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 800px;
+    align-content: center;
+   
+    margin: auto;
+    border: solid blue ;
+    width:  800px;
+    padding: 0 30px;
+   
+
+}
+ button{
+    color: blue;
+    margin: 0 15px;
+    height: 25px;
+   
+ }
+ 
+ input, label {
+    border-color:rgb(50, 10, 231);
+    width: 100px;
+    height: 25px;
+    margin: 0 10px;
+ }
+ input#age{
+    width:  50px;
+ }
+ 
+
+
+

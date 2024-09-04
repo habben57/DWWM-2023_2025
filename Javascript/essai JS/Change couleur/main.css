@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+
+button{
+    border-radius: 30px;
+    color: rgb(119, 61, 38);
+    margin: 0 10px;
+}
+
