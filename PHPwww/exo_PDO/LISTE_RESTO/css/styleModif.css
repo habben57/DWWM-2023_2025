@@ -1,0 +1,155 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #17f;  
+}
+
+section{
+   background-color: #fff;
+   padding: 10px;
+   display: flex;
+   flex-direction: column;
+   width: 400px;
+   border-radius: 6px; 
+   box-shadow: 15px 10px 18px #555;
+}
+
+section h1{
+    text-align: center;
+}
+
+label{
+    font-size: 20px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+/* input.retour{
+    margin-left: 0;
+    font-size: small;
+    border-radius: 6px;
+} */
+
+form input{
+    margin: 5px 0;
+    padding: 10px 10px;
+    outline: 0;
+    border: 1px solid #000;
+    border-radius: 6px;
+  
+}
+
+form input[type='submit']{
+    background-color: rgb(37, 107, 199);
+    border: 0;
+    color:#fff;
+    margin-top: 20px;
+    font-size: 20px;
+}
+input.btnSoumettre{
+        background-color: #17f;
+        border: 0;
+        color: #fff;
+        margin-top: 20px;
+        font-size: 20px;
+      
+
+}
+input, textarea{
+    color: #918d8d;
+}
+
+.btnSoumettre{
+    cursor: pointer;
+}
+img {
+    height: 50px;
+    background-color: chartreuse;
+    border-radius: 50%;
+}
+
+/* .retour{
+    background-color: rgb(20, 220, 30);
+    border: 0;
+    color: #fff;
+    margin-top: 20px;
+    font-size: 20px;
+    cursor: pointer;
+    margin: auto;
+    justify-items: center;
+    width:  90px;
+} */
+
+/* ----------------------------------------------------------------- */
+/* html {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    height: auto;
+}
+
+legend {
+    display: flex;
+    justify-content: center;
+    color: rgb(199, 90, 90);
+    font-size: 40px;
+    text-shadow: 5px 5px 8px #555;
+    margin-bottom: 30px;
+}
+
+
+table {
+    box-shadow: 8px 5px 12px #555;
+
+}
+
+th {
+    font-size: x-large;
+    justify-items: center;
+    border: 1px solid;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th,
+td,
+input {
+
+    border: 1px solid;
+    padding: 5px;
+    text-justify: auto;
+}
+
+input,
+textarea {
+    border: none;
+    text-align: center;
+}
+
+input.btnSoumettre {
+    color: rgb(31, 145, 27);
+    margin: 50px;
+    font-size: x-large;
+    text-shadow: 5px 5px 8px #555;
+    border-radius: 25px;
+}
+
+input.btnSoumettre:hover {
+    background: rgb(63, 182, 39);
+    color: #fff;
+} */

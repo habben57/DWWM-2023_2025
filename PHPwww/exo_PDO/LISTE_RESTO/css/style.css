@@ -1,0 +1,104 @@
+html {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    height: auto;
+}
+
+body {
+
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+legend {
+    display: flex;
+    justify-content: center;
+    color: rgb(199, 90, 90);
+    font-size: 50px;
+    text-shadow: 5px 5px 8px #555;
+    margin-bottom: 30px;
+}
+
+h3{
+    margin-bottom: 0;
+    color: rgb(60, 182, 115);
+}
+
+caption {
+    font-size: 40px;
+    border-bottom: 1px solid;
+    text-shadow: 5px 5px 8px #555;
+}
+
+input.btnAjouter{
+    margin-bottom: 10px;
+}
+
+th {
+    font-size: x-large;
+    justify-items: center;
+    border: 1px solid;
+}
+
+td {
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 5px;
+    /* text-align: end; */
+    text-justify: auto;
+}
+
+td img{
+    margin: auto;
+    margin-left: 20px;
+}
+
+a:-webkit-any-link{
+   cursor: pointer;
+}
+
+/* changer la couleur des lignes une sur deux */
+tr:nth-child(even) {
+    background-color: rgb(220, 228, 228);
+}
+
+div {
+    box-shadow: 8px 5px 12px #555;
+
+}
+img{
+    height:40px;
+    margin-bottom: 25px;
+    margin-left: 50px;
+   
+ 
+
+}
+img:hover{
+
+    height: 50px;
+
+}
+
+/* ----------------- bouton modifier--------------------- */
+.btn {
+    padding: 5px 30px;
+    /* background-color: #fff;
+    color: rgb(6 3, 182, 39);
+    font-size: 1em;
+    
+    text-decoration: none;
+    border: 1px solid;
+    border-radius: 25%;
+    border-color: rgb(63, 182, 39); */
+}
+
+/* .btn:hover {
+    background: rgb(63, 182, 39);
+    color: #fff;
+} */
