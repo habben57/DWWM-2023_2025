@@ -1,0 +1,15 @@
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppPoint\bin\Debug\net6.0\AppPoint.exe
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppPoint\bin\Debug\net6.0\AppPoint.deps.json
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppPoint\bin\Debug\net6.0\AppPoint.runtimeconfig.json
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppPoint\bin\Debug\net6.0\AppPoint.dll
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppPoint\bin\Debug\net6.0\AppPoint.pdb
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppPoint\obj\Debug\net6.0\AppPoint.csproj.AssemblyReference.cache
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppPoint\obj\Debug\net6.0\AppPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppPoint\obj\Debug\net6.0\AppPoint.AssemblyInfoInputs.cache
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppPoint\obj\Debug\net6.0\AppPoint.AssemblyInfo.cs
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppPoint\obj\Debug\net6.0\AppPoint.csproj.CoreCompileInputs.cache
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppPoint\obj\Debug\net6.0\AppPoint.dll
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppPoint\obj\Debug\net6.0\refint\AppPoint.dll
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppPoint\obj\Debug\net6.0\AppPoint.pdb
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppPoint\obj\Debug\net6.0\AppPoint.genruntimeconfig.cache
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppPoint\obj\Debug\net6.0\ref\AppPoint.dll

@@ -1,0 +1,15 @@
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppFraction\obj\Debug\net6.0\AppFraction.csproj.AssemblyReference.cache
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppFraction\obj\Debug\net6.0\AppFraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppFraction\obj\Debug\net6.0\AppFraction.AssemblyInfoInputs.cache
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppFraction\obj\Debug\net6.0\AppFraction.AssemblyInfo.cs
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppFraction\obj\Debug\net6.0\AppFraction.csproj.CoreCompileInputs.cache
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppFraction\bin\Debug\net6.0\AppFraction.exe
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppFraction\bin\Debug\net6.0\AppFraction.deps.json
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppFraction\bin\Debug\net6.0\AppFraction.runtimeconfig.json
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppFraction\bin\Debug\net6.0\AppFraction.dll
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppFraction\bin\Debug\net6.0\AppFraction.pdb
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppFraction\obj\Debug\net6.0\AppFraction.dll
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppFraction\obj\Debug\net6.0\refint\AppFraction.dll
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppFraction\obj\Debug\net6.0\AppFraction.pdb
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppFraction\obj\Debug\net6.0\AppFraction.genruntimeconfig.cache
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppFraction\obj\Debug\net6.0\ref\AppFraction.dll

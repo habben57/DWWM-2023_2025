@@ -1,0 +1,15 @@
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppCompte\obj\Debug\net6.0\AppCompte.csproj.AssemblyReference.cache
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppCompte\obj\Debug\net6.0\AppCompte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppCompte\obj\Debug\net6.0\AppCompte.AssemblyInfoInputs.cache
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppCompte\obj\Debug\net6.0\AppCompte.AssemblyInfo.cs
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppCompte\obj\Debug\net6.0\AppCompte.csproj.CoreCompileInputs.cache
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppCompte\bin\Debug\net6.0\AppCompte.exe
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppCompte\bin\Debug\net6.0\AppCompte.deps.json
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppCompte\bin\Debug\net6.0\AppCompte.runtimeconfig.json
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppCompte\bin\Debug\net6.0\AppCompte.dll
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppCompte\bin\Debug\net6.0\AppCompte.pdb
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppCompte\obj\Debug\net6.0\AppCompte.dll
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppCompte\obj\Debug\net6.0\refint\AppCompte.dll
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppCompte\obj\Debug\net6.0\AppCompte.pdb
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppCompte\obj\Debug\net6.0\AppCompte.genruntimeconfig.cache
+C:\Users\hbenmessaoud\Documents\DWWM 2023_2025\Programmation Objet\AppCompte\obj\Debug\net6.0\ref\AppCompte.dll
